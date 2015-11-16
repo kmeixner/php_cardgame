@@ -1,0 +1,11 @@
+div.row {
+  width: 420px;
+}
+    
+div.card {
+  display:table-cell;
+  width: 100px;
+  height: 100px;
+  vertical-align: middle;	  
+  text-align: center;
+}
